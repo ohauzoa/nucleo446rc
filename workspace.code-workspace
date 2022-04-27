@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\..\\Works\\Esp32VsCode"
+		},
+		{
+			"name": "lolin32pro",
+			"path": "..\\lolin32pro"
+		},
+		{
+			"name": "nucleo446rc",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"Mv_M130_Work.C": "cpp"
+		}
+	}
+}
